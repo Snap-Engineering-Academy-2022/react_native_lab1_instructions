@@ -1,6 +1,4 @@
-# react native lab1 instructions
-
-# ⚡️React Native Lab 1
+# ⚡️React Native Lab 1 instructions
 
 Welcome to this crash course on how to create a mobile app with React Native! Today's lab has three parts.
 
