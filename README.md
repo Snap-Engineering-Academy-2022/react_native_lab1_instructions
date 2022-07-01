@@ -127,7 +127,7 @@ Woohoo! You got your first mobile app running.
 
 ## First, fork and clone this lab repo:
 
-[](https://github.com/Snap-Engineering-Academy-2021/rn-lab1)
+[React Native Lab 1](https://github.com/Snap-Engineering-Academy-2022/react_native_lab1)
 
 ## Then try to complete the following:
 
