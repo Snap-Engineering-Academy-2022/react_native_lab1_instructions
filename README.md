@@ -50,8 +50,6 @@ expo init my-app
 
 You might be asked to choose a template. For now, let's go with Managed workflow -> blank.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76582e4d-13f4-4d52-a390-5d462699e090/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76582e4d-13f4-4d52-a390-5d462699e090/Untitled.png)
-
 Then, navigate to the project directory and open up the files in VSCode.
 
 ```
